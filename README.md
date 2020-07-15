@@ -5,7 +5,7 @@ This repository contains simple coding problems and solutions written in Python
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
-Install [Python 3](https://www.python.org/downloads/) or use your favorite IDE
+Install [Python 3](https://www.python.org/downloads/) or use your favourite IDE
 
 ## How to run .py file
 The most basic and the easy way to run Python scripts is by using the python command.
