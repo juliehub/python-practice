@@ -11,19 +11,19 @@ Install [Python 3](https://www.python.org/downloads/) or use your favorite IDE
 The most basic and the easy way to run Python scripts is by using the python command.
 You need to open a command-line and type the word python followed by the path to your script file, like this:
 ```
-python mergingrange.md
+python merging_ranges.py
 ```
 It is useful to save the output in a different file for later analysis.
 ```
-python mergingrange.md > output.txt
+python merging_ranges.py > output.txt
 ```
 
 ## List of problems
 ### Problem 1: Merging Ranges
 Your company built an in-house calendar tool called HiCal.
 You want to add a feature to see the times in a day when everyone is available.
-* Problem statement: [mergingranges.md](https://github.com/juliehub/python-practice/blob/master/merging_ranges.md)
-* Sample solution: [mergingranges.py](https://github.com/juliehub/python-practice/blob/master/merging_ranges.py)
+* Problem statement: [merging_ranges.md](https://github.com/juliehub/python-practice/blob/master/merging_ranges.md)
+* Sample solution: [merging_ranges.py](https://github.com/juliehub/python-practice/blob/master/merging_ranges.py)
 
 ### Problem 2: Making Change
 Your quirky boss collects rare, old coins...
