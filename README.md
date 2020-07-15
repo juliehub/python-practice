@@ -22,13 +22,13 @@ python mergingrange.md > output.txt
 ### Problem 1: Merging Ranges
 Your company built an in-house calendar tool called HiCal.
 You want to add a feature to see the times in a day when everyone is available.
-* Problem statement: [mergingranges.md](https://github.com/juliehub/python-practice/blob/master/mergingrange.md)
-* Sample solution: [mergingranges.py](https://github.com/juliehub/python-practice/blob/master/mergingranges.py)
+* Problem statement: [mergingranges.md](https://github.com/juliehub/python-practice/blob/master/merging_ranges.md)
+* Sample solution: [mergingranges.py](https://github.com/juliehub/python-practice/blob/master/merging_ranges.py)
 
 ### Problem 2: Making Change
 Your quirky boss collects rare, old coins...
 * Problem statement: [coin.md](https://github.com/juliehub/python-practice/blob/master/coin.md)
-* Sample solution: [coin.py](https://github.com/juliehub/python-practice/blob/master/mergingranges.py)
+* Sample solution: [coin.py](https://github.com/juliehub/python-practice/blob/master/coin.py)
 
 ## Authors
 
