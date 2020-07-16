@@ -19,7 +19,7 @@ python merging_ranges.py > output.txt
 ```
 
 ## List of problems
-### Problem 1: Merging Ranges (Arrays)
+### Problem 1: Merging Ranges (Sorting)
 Your company built an in-house calendar tool called HiCal.
 You want to add a feature to see the times in a day when everyone is available.
 * Problem statement: [merging_ranges.md](https://github.com/juliehub/python-practice/blob/master/merging_ranges.md)
