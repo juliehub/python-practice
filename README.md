@@ -40,6 +40,11 @@ Rotate an array to the right by a given number of steps.
 * Problem statement: [cyclic_rotation.md](https://github.com/juliehub/python-practice/blob/master/cyclic_rotation.md)
 * Sample solution: [cyclic_rotation.py](https://github.com/juliehub/python-practice/blob/master/cyclic_rotation.py)
 
+### Problem 5: Rectangular Love (Dictionaries)
+A crack team of love scientists from OkEros (a hot new dating site) have devised a way to represent dating profiles as rectangles on a two-dimensional plane.
+* Problem statement: [rectangular_love.md](https://github.com/juliehub/python-practice/blob/master/rectangular_love.md)
+* Sample solution: [rectangular_love.py](https://github.com/juliehub/python-practice/blob/master/rectangular_love.py)
+
 ## Authors
 
 * **Julie** - [Julie Github Repository](https://github.com/juliehub)
