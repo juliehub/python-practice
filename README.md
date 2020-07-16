@@ -25,17 +25,17 @@ You want to add a feature to see the times in a day when everyone is available.
 * Problem statement: [merging_ranges.md](https://github.com/juliehub/python-practice/blob/master/merging_ranges.md)
 * Sample solution: [merging_ranges.py](https://github.com/juliehub/python-practice/blob/master/merging_ranges.py)
 
-### Problem 2: Making Change
+### Problem 2: Making Change (Dynamic Programming)
 Your quirky boss collects rare, old coins...
-* Problem statement: [coin.md](https://github.com/juliehub/python-practice/blob/master/coin.md)
-* Sample solution: [coin.py](https://github.com/juliehub/python-practice/blob/master/coin.py)
+* Problem statement: [change_making.md](https://github.com/juliehub/python-practice/blob/master/change_making.md)
+* Sample solution: [change_making.py](https://github.com/juliehub/python-practice/blob/master/change_making.py)
 
-### Problem 3: Binary Gap
+### Problem 3: Binary Gap (Iterations)
 Find longest sequence of zeros in binary representation of an integer.
 * Problem statement: [binary_gap.md](https://github.com/juliehub/python-practice/blob/master/binary_gap.md)
 * Sample solution: [binary_gap.py](https://github.com/juliehub/python-practice/blob/master/binary_gap.py)
 
-### Problem 4: Cyclic Rotation
+### Problem 4: Cyclic Rotation (Arrays)
 Rotate an array to the right by a given number of steps.
 * Problem statement: [cyclic_rotation.md](https://github.com/juliehub/python-practice/blob/master/cyclic_rotation.md)
 * Sample solution: [cyclic_rotation.py](https://github.com/juliehub/python-practice/blob/master/cyclic_rotation.py)
