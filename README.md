@@ -30,6 +30,12 @@ Your quirky boss collects rare, old coins...
 * Problem statement: [coin.md](https://github.com/juliehub/python-practice/blob/master/coin.md)
 * Sample solution: [coin.py](https://github.com/juliehub/python-practice/blob/master/coin.py)
 
+### Problem 3: Binary Gap
+Find longest sequence of zeros in binary representation of an integer.
+* Problem statement: [binary_gap.md](https://github.com/juliehub/python-practice/blob/master/binary_gap.md)
+* Sample solution: [binary_gap.py](https://github.com/juliehub/python-practice/blob/master/binary_gap.py)
+
+
 ## Authors
 
 * **Julie** - [Julie Github Repository](https://github.com/juliehub)
