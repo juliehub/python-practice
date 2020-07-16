@@ -35,6 +35,10 @@ Find longest sequence of zeros in binary representation of an integer.
 * Problem statement: [binary_gap.md](https://github.com/juliehub/python-practice/blob/master/binary_gap.md)
 * Sample solution: [binary_gap.py](https://github.com/juliehub/python-practice/blob/master/binary_gap.py)
 
+### Problem 4: Cyclic Rotation
+Rotate an array to the right by a given number of steps.
+* Problem statement: [cyclic_rotation.md](https://github.com/juliehub/python-practice/blob/master/cyclic_rotation.md)
+* Sample solution: [cyclic_rotation.py](https://github.com/juliehub/python-practice/blob/master/cyclic_rotation.py)
 
 ## Authors
 
