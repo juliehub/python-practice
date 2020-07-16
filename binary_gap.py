@@ -64,3 +64,10 @@ def binary_gap(N):
             j=k
                             
     return gap
+
+
+#binary_gap(1041)
+#binary_gap(529)
+#binary_gap(20)
+#binary_gap(32)
+#binary_gap(15)
