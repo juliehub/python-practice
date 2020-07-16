@@ -38,7 +38,7 @@ def binary_gap(N):
     
     # get the binary of number N
     num = bin(N)[2:]
-    print(num)
+    #print(num)
     
     #get a binary textual representation without the 0b-prefix
     #get_bin = lambda n: format(n, 'b')
