@@ -57,6 +57,12 @@ You want to be able to access the largest element in a stack
 * Problem statement: [largest_stack.md](https://github.com/juliehub/python-practice/blob/master/largest_stack.md)
 * Sample solution: [largest_stack.py](https://github.com/juliehub/python-practice/blob/master/largest_stack.py)
 
+
+### Problem 8: Stolen Breakfast Drone
+Your company delivers breakfast via autonomous quadcopter drones. And something mysterious has happened.
+* Problem statement: [drone.md](https://github.com/juliehub/python-practice/blob/master/drone.md)
+* Sample solution: [drone.py](https://github.com/juliehub/python-practice/blob/master/drone.py)
+
 ## Authors
 
 * **Julie** - [Julie Github Repository](https://github.com/juliehub)
