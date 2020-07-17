@@ -2,6 +2,7 @@
 
 You've already implemented this Stack class:
 
+```python
   class Stack(object):
 
     def __init__(self):
@@ -26,7 +27,7 @@ You've already implemented this Stack class:
         if not self.items:
             return None
         return self.items[-1]
-        
+```
 Use your `Stack` class to **implement a *new* class** `MaxStack` with a method `get_max()` **that returns the largest element in the stack**. `get_max()` should not remove the item.
 
 Your stacks will contain only integers.
