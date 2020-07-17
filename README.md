@@ -45,6 +45,12 @@ A crack team of love scientists from OkEros (a hot new dating site) have devised
 * Problem statement: [rectangular_love.md](https://github.com/juliehub/python-practice/blob/master/rectangular_love.md)
 * Sample solution: [rectangular_love.py](https://github.com/juliehub/python-practice/blob/master/rectangular_love.py)
 
+
+### Problem 6: Highest Product of 3
+Given a list of integers, find the highest product you can get from three of the integers.
+* Problem statement: [highest_product.md](https://github.com/juliehub/python-practice/blob/master/highest_product.md)
+* Sample solution: [highest_product.py](https://github.com/juliehub/python-practice/blob/master/highest_product.py)
+
 ## Authors
 
 * **Julie** - [Julie Github Repository](https://github.com/juliehub)
