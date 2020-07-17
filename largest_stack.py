@@ -34,7 +34,6 @@ class MaxStack(Stack):
     print("Max stack", max_stack.items)
     """
     
-    # https://leetcode.com/articles/max-stack/
     # Complexity Analysis:
     # Time Complexity: O(N) for the popMax operation, and O(1) for the other operations.
     # N is the number of operations performed.
