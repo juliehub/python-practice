@@ -51,6 +51,12 @@ Given a list of integers, find the highest product you can get from three of the
 * Problem statement: [highest_product.md](https://github.com/juliehub/python-practice/blob/master/highest_product.md)
 * Sample solution: [highest_product.py](https://github.com/juliehub/python-practice/blob/master/highest_product.py)
 
+
+### Problem 6: Largest Stack (Stacks)
+You want to be able to access the largest element in a stack
+* Problem statement: [largest_stack.md](https://github.com/juliehub/python-practice/blob/master/largest_stack.md)
+* Sample solution: [largest_stack.py](https://github.com/juliehub/python-practice/blob/master/largest_stack.py)
+
 ## Authors
 
 * **Julie** - [Julie Github Repository](https://github.com/juliehub)
