@@ -52,7 +52,7 @@ Given a list of integers, find the highest product you can get from three of the
 * Sample solution: [highest_product.py](https://github.com/juliehub/python-practice/blob/master/highest_product.py)
 
 
-### Problem 6: Largest Stack (Stacks)
+### Problem 7: Largest Stack (Stacks)
 You want to be able to access the largest element in a stack
 * Problem statement: [largest_stack.md](https://github.com/juliehub/python-practice/blob/master/largest_stack.md)
 * Sample solution: [largest_stack.py](https://github.com/juliehub/python-practice/blob/master/largest_stack.py)
