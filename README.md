@@ -58,10 +58,17 @@ You want to be able to access the largest element in a stack
 * Sample solution: [largest_stack.py](https://github.com/juliehub/python-practice/blob/master/largest_stack.py)
 
 
-### Problem 8: Stolen Breakfast Drone
+### Problem 8: Stolen Breakfast Drone (Dictionaries)
 Your company delivers breakfast via autonomous quadcopter drones. And something mysterious has happened.
 * Problem statement: [drone.md](https://github.com/juliehub/python-practice/blob/master/drone.md)
 * Sample solution: [drone.py](https://github.com/juliehub/python-practice/blob/master/drone.py)
+
+
+### Problem 9: Simulate a 5-Sided Die Using a 7-Sided Die
+You have a function rand7() that generates a random integer from 1 to 7.
+Use it to write a function rand5() that generates a random integer from 1 to 5.
+* Problem statement: [die.md](https://github.com/juliehub/python-practice/blob/master/die.md)
+* Sample solution: [die.py](https://github.com/juliehub/python-practice/blob/master/die.py)
 
 ## Authors
 
