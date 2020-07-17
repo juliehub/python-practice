@@ -10,6 +10,7 @@ They suspect finding that intersection is the key to a matching algorithm so pow
 As with the example above, love rectangles are always "straight" and never "diagonal." More rigorously: each side is parallel with either the x-axis or the y-axis.
 
 They are defined as dictionaries like this:
+```python
 
   my_rectangle = {
 
@@ -22,5 +23,6 @@ They are defined as dictionaries like this:
     'height'   : 3,
 
 }
+```
 
 Your output rectangle should use this format as well.
