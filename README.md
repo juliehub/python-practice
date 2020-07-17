@@ -46,13 +46,13 @@ A crack team of love scientists from OkEros (a hot new dating site) have devised
 * Sample solution: [rectangular_love.py](https://github.com/juliehub/python-practice/blob/master/rectangular_love.py)
 
 
-### Problem 6: Highest Product of 3 (Time Complexity)
+### Problem 6: Highest Product of 3 (List, Time Complexity)
 Given a list of integers, find the highest product you can get from three of the integers.
 * Problem statement: [highest_product.md](https://github.com/juliehub/python-practice/blob/master/highest_product.md)
 * Sample solution: [highest_product.py](https://github.com/juliehub/python-practice/blob/master/highest_product.py)
 
 
-### Problem 7: Largest Stack (Stacks)
+### Problem 7: Largest Stack (Stacks, Time Complexity)
 You want to be able to access the largest element in a stack
 * Problem statement: [largest_stack.md](https://github.com/juliehub/python-practice/blob/master/largest_stack.md)
 * Sample solution: [largest_stack.py](https://github.com/juliehub/python-practice/blob/master/largest_stack.py)
