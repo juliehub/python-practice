@@ -70,6 +70,13 @@ Use it to write a function rand5() that generates a random integer from 1 to 5.
 * Problem statement: [rand5.md](https://github.com/juliehub/python-practice/blob/master/rand5.md)
 * Sample solution: [rand5.py](https://github.com/juliehub/python-practice/blob/master/rand5.py)
 
+
+### Problem 10: Writing a uniform shuffle
+Write a function for doing an in-place ↴ shuffle of a list.
+Use it to write a function rand5() that generates a random integer from 1 to 5.
+* Problem statement: [shuffle.md](https://github.com/juliehub/python-practice/blob/master/shuffle.md)
+* Sample solution: [shuffle.py](https://github.com/juliehub/python-practice/blob/master/shuffle.py)
+
 ## Authors
 
 * **Julie** - [Julie Github Repository](https://github.com/juliehub)
