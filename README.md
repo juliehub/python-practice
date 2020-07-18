@@ -85,10 +85,14 @@ array B after the swap.
 * Sample solution: [swap.py](https://github.com/juliehub/python-practice/blob/master/swap.py)
 
 ### Problem 12: Mushroom pickers (Prefix sums)
-Write a function to calculate the maximum number of mushrooms that the mushroom
-picker can collect in m moves.
+Write a function to calculate the maximum number of mushrooms that the mushroom picker can collect in m moves.
 * Problem statement: [mushroom.md](https://github.com/juliehub/python-practice/blob/master/mushroom.md)
 * Sample solution: [mushroom.py](https://github.com/juliehub/python-practice/blob/master/mushroom.py)
+
+### Problem 13: Max Slice
+Write a function to return the maximum sum of a slice in the array.
+* Problem statement: [max_slice.md](https://github.com/juliehub/python-practice/blob/master/max_slice.md)
+* Sample solution: [max_slice.py](https://github.com/juliehub/python-practice/blob/master/max_slice.py)
 
 ## Authors
 
