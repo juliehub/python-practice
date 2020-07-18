@@ -81,7 +81,6 @@ Use it to write a function rand5() that generates a random integer from 1 to 5.
 Write a function to check whether there is a swap operation which can be performed on these
 arrays in such a way that the sum of elements in array A equals the sum of elements in
 array B after the swap.
-Use it to write a function rand5() that generates a random integer from 1 to 5.
 * Problem statement: [swap.md](https://github.com/juliehub/python-practice/blob/master/swap.md)
 * Sample solution: [swap.py](https://github.com/juliehub/python-practice/blob/master/swap.py)
 
