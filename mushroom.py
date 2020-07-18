@@ -11,6 +11,11 @@ def prefix_sums(A):
     Returns:
     an array contains the consecutive sums of the first n elements of an array A
     
+    To use:
+    >> A=[2,3,7,5,1,3,9]
+    >> print(prefix_sums(A))
+    [0, 2, 5, 12, 17, 18, 21, 30]
+    
     Time Complexity: O(n)
     """
     n = len(A)
@@ -54,6 +59,11 @@ def mushrooms(A, k, m):
     
     Returns:
     maximum number of mushrooms that the mushroom picker can collect in m moves
+    
+    To use:
+    >> A=[2,3,7,5,1,3,9]
+    >> print("Maximum number of mushrooms:",mushrooms(A,4,6))
+    Maximum number of mushrooms: 25
     
     """
     # Note that the best strategy is to move in one direction optionally followed
