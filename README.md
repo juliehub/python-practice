@@ -77,6 +77,15 @@ Use it to write a function rand5() that generates a random integer from 1 to 5.
 * Problem statement: [shuffle.md](https://github.com/juliehub/python-practice/blob/master/shuffle.md)
 * Sample solution: [shuffle.py](https://github.com/juliehub/python-practice/blob/master/shuffle.py)
 
+### Problem 11: Swapping elments (Counting elements)
+Write a function to check whether there is a swap operation which can be performed on these
+arrays in such a way that the sum of elements in array A equals the sum of elements in
+array B after the swap.
+Use it to write a function rand5() that generates a random integer from 1 to 5.
+* Problem statement: [swap.md](https://github.com/juliehub/python-practice/blob/master/swap.md)
+* Sample solution: [swap.py](https://github.com/juliehub/python-practice/blob/master/swap.py)
+
+
 ## Authors
 
 * **Julie** - [Julie Github Repository](https://github.com/juliehub)
