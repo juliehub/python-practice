@@ -99,11 +99,21 @@ Given a list of reviews, a list of keywords and an integer k. Find the most popu
 * Problem statement: [topKFrequent.md](https://github.com/juliehub/python-practice/blob/master/topKFrequent.md)
 * Sample solution: [topKFrequent.py](https://github.com/juliehub/python-practice/blob/master/topKFrequent.py)
 
-### Problem 15: Zombie in a matrix
+### Problem 15: Zombie in a matrix (Breadth First Search, Graph)
 Given a 2D grid, each cell is either a zombie 1 or a human 0. Zombies can turn adjacent (up/down/left/right) human beings into zombies every hour.
 Find out how many hours does it take to infect all humans?
 * Problem statement: [zombie.md](https://github.com/juliehub/python-practice/blob/master/zombie.md)
 * Sample solution: [zombie.py](https://github.com/juliehub/python-practice/blob/master/zombie.py)
+
+### Problem 16: Product Suggestions (Searching)
+Given an array of strings products and a string searchWord.
+We want to design a system that suggests at most three product names from products after each character of searchWord is typed.
+Suggested products should have common prefix with the searchWord.
+If there are more than three products with a common prefix return the three lexicographically minimums products.
+
+Return list of lists of the suggested products after each character of searchWord is typed. 
+* Problem statement: [product.md](https://github.com/juliehub/python-practice/blob/master/product.md)
+* Sample solution: [product.py](https://github.com/juliehub/python-practice/blob/master/product.py)
 
 ## Authors
 
