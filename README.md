@@ -119,8 +119,8 @@ You are given an undirected connected graph. An articulation point (or cut verte
 
 Return list of lists of the suggested products after each character of searchWord is typed. 
 
-* Problem statement: [routers.md](https://github.com/juliehub/python-practice/blob/master/routers.md)
-* Sample solution: [routers.py](https://github.com/juliehub/python-practice/blob/master/routers.py)
+* Problem statement: [router.md](https://github.com/juliehub/python-practice/blob/master/router.md)
+* Sample solution: [router.py](https://github.com/juliehub/python-practice/blob/master/router.py)
 
 ## Authors
 
