@@ -75,7 +75,9 @@ class Solution:
         """
         class TrieNode:
             def __init__(self):
+                # a TrieNode contains children which is a dictionary(key = a charater in a product,value = TrieNode)
                 self.children = collections.defaultdict(TrieNode)
+                # a TrieNode also stores a list of 3 suggested product names
                 self.suggestion = []
             
             def add_sugestion(self, product):
@@ -95,12 +97,17 @@ class Solution:
             node = root
             # for every character in the product
             for char in p:
+                # add a TrieNode into the Trie
                 node = node.children[char]
+                # add a list of suggested products into the TrieNode
                 node.add_sugestion(p)
         
+        # create a list of 3 suggested products
         result =[]
         node = root
         
+        # search through the trie, find the list of 3 suggested products
+        # based on the characters in the searchWord
         for char in searchWord:
             node = node.children[char]
             result.append(node.suggestion)
