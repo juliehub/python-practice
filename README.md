@@ -111,9 +111,13 @@ We want to design a system that suggests at most three product names from produc
 Suggested products should have common prefix with the searchWord.
 If there are more than three products with a common prefix return the three lexicographically minimums products.
 
+### Problem 17: Critical Routers (Depth First Search)
+You are given an undirected connected graph. An articulation point (or cut vertex) is defined as a vertex which, when removed along with associated edges, makes the graph disconnected (or more precisely, increases the number of connected components in the graph). The task is to find all articulation points in the given graph.
+
 Return list of lists of the suggested products after each character of searchWord is typed. 
-* Problem statement: [product.md](https://github.com/juliehub/python-practice/blob/master/product.md)
-* Sample solution: [product.py](https://github.com/juliehub/python-practice/blob/master/product.py)
+
+* Problem statement: [routers.md](https://github.com/juliehub/python-practice/blob/master/routers.md)
+* Sample solution: [routers.py](https://github.com/juliehub/python-practice/blob/master/routers.py)
 
 ## Authors
 
