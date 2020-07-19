@@ -89,10 +89,15 @@ Write a function to calculate the maximum number of mushrooms that the mushroom 
 * Problem statement: [mushroom.md](https://github.com/juliehub/python-practice/blob/master/mushroom.md)
 * Sample solution: [mushroom.py](https://github.com/juliehub/python-practice/blob/master/mushroom.py)
 
-### Problem 13: Max Slice
+### Problem 13: Max Slice Problem
 Write a function to return the maximum sum of a slice in the array.
 * Problem statement: [max_slice.md](https://github.com/juliehub/python-practice/blob/master/max_slice.md)
 * Sample solution: [max_slice.py](https://github.com/juliehub/python-practice/blob/master/max_slice.py)
+
+### Problem 14: Top K Frequently Mentioned Keywords (Heap)
+Given a list of reviews, a list of keywords and an integer k. Find the most popular k keywords in order of most to least frequently mentioned.
+* Problem statement: [topKFrequent.md](https://github.com/juliehub/python-practice/blob/master/topKFrequent.md)
+* Sample solution: [topKFrequent.py](https://github.com/juliehub/python-practice/blob/master/topKFrequent.py)
 
 ## Authors
 
