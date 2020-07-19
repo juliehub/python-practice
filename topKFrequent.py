@@ -1,3 +1,4 @@
+``` python
 """
 Count the frequency of each word, then add it to heap that stores the best k candidates. 
 Here, "best" is defined with our custom ordering relation, 
