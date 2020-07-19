@@ -6,7 +6,7 @@ https://leetcode.com/problems/search-suggestions-system/discuss/508775/Python-Tr
 Trie + Sort
 
 Sort
-n = number of charcters in the products list
+n = number of characters in the products list
 Time: O(nlog(n))
 
 Build Trie
@@ -65,27 +65,46 @@ s4.suggestedProducts(products,'tiana')
 """
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
+        """
+        Args:
+        products: a list of product names
+        searchWord: a string
+        
+        Returns:
+        lists of the suggested products after each character of searchWord is typed. 
+        """
         class TrieNode:
             def __init__(self):
                 self.children = collections.defaultdict(TrieNode)
                 self.suggestion = []
             
             def add_sugestion(self, product):
+                # suggests at most three product names from products after each character of searchWord is typed
                 if len(self.suggestion) < 3:
                     self.suggestion.append(product)
         
+        #print("Original Products:",products)
+        
+        # O(nlog(n))
         products = sorted(products)
+        #print("Sorted Products:",products)    
+
+        # build a trie from the products list
         root = TrieNode()
         for p in products:
             node = root
+            # for every character in the product
             for char in p:
                 node = node.children[char]
                 node.add_sugestion(p)
         
-        result, node = [], root
+        result =[]
+        node = root
+        
         for char in searchWord:
             node = node.children[char]
             result.append(node.suggestion)
+            
         return result
     
     
