@@ -105,7 +105,7 @@ Find out how many hours does it take to infect all humans?
 * Problem statement: [zombie.md](https://github.com/juliehub/python-practice/blob/master/zombie.md)
 * Sample solution: [zombie.py](https://github.com/juliehub/python-practice/blob/master/zombie.py)
 
-### Problem 16: Product Suggestions (Searching)
+### Problem 16: Product Suggestions (Trie and Sort)
 Given an array of strings products and a string searchWord.
 We want to design a system that suggests at most three product names from products after each character of searchWord is typed.
 Suggested products should have common prefix with the searchWord.
