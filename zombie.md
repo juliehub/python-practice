@@ -1,5 +1,5 @@
-***Given a 2D grid, each cell is either a zombie 1 or a human 0. Zombies can turn adjacent (up/down/left/right) human beings into zombies every hour.
-Find out how many hours does it take to infect all humans?***
+**Given a 2D grid, each cell is either a zombie 1 or a human 0. Zombies can turn adjacent (up/down/left/right) human beings into zombies every hour.
+Find out how many hours does it take to infect all humans?**
 
 **Example:**
 
@@ -37,10 +37,10 @@ At the end of the 2nd hour, the status of the grid:
 }
 ```
 
-***Similar problem:***
+**Similar problem:**
 
-***In a 2D array of integer, 2 denotes wall, 1 denotes zombie and 0 denotes human. Next day zombies turn adjacent human beings into zombies. A zombie is adjacent to the human one block above, below, left and right. Zombie cannot cross a wall.
-Find out how many days does it take to infect all human. If some human never get infected, return -1.***
+**In a 2D array of integer, 2 denotes wall, 1 denotes zombie and 0 denotes human. Next day zombies turn adjacent human beings into zombies. A zombie is adjacent to the human one block above, below, left and right. Zombie cannot cross a wall.
+Find out how many days does it take to infect all human. If some human never get infected, return -1.**
 
 Input 1:
 ```python
