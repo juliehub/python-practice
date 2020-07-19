@@ -99,6 +99,12 @@ Given a list of reviews, a list of keywords and an integer k. Find the most popu
 * Problem statement: [topKFrequent.md](https://github.com/juliehub/python-practice/blob/master/topKFrequent.md)
 * Sample solution: [topKFrequent.py](https://github.com/juliehub/python-practice/blob/master/topKFrequent.py)
 
+### Problem 15: Zombie in a matrix
+Given a 2D grid, each cell is either a zombie 1 or a human 0. Zombies can turn adjacent (up/down/left/right) human beings into zombies every hour.
+Find out how many hours does it take to infect all humans?
+* Problem statement: [zombie.md](https://github.com/juliehub/python-practice/blob/master/zombie.md)
+* Sample solution: [zombie.py](https://github.com/juliehub/python-practice/blob/master/zombie.py)
+
 ## Authors
 
 * **Julie** - [Julie Github Repository](https://github.com/juliehub)
