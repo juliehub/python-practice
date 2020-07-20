@@ -41,7 +41,7 @@ class Graph:
         self.graph = defaultdict(list) # default dictionary to store graph 
         self.Time = 0
         
-        # add an edge to graph 
+        # add edges to graph 
         for u, v in edges:
             self.graph[u].append(v) 
             self.graph[v].append(u) 
@@ -99,9 +99,6 @@ class Graph:
         """
         # Returns: a list of integers representing the critical nodes.
         """
-        
-        # build a graph
-        
         # Mark all the vertices as not visited  
         # and Initialize parent and visited,  
         # and ap(articulation point) arrays 
