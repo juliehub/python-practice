@@ -114,7 +114,7 @@ If there are more than three products with a common prefix return the three lexi
 * Problem statement: [product.md](https://github.com/juliehub/python-practice/blob/master/product.md)
 * Sample solution: [product.py](https://github.com/juliehub/python-practice/blob/master/product.py)
 
-### Problem 17: Critical Routers (Depth First Search, Graph)
+### Problem 17: Critical Routers/Articulation Point (DFS, Tarjan, Graph)
 You are given an undirected connected graph. An articulation point (or cut vertex) is defined as a vertex which, when removed along with associated edges, makes the graph disconnected (or more precisely, increases the number of connected components in the graph). The task is to find all articulation points in the given graph.
 
 Return list of lists of the suggested products after each character of searchWord is typed. 
@@ -122,7 +122,7 @@ Return list of lists of the suggested products after each character of searchWor
 * Problem statement: [router.md](https://github.com/juliehub/python-practice/blob/master/router.md)
 * Sample solution: [router.py](https://github.com/juliehub/python-practice/blob/master/router.py)
 
-### Problem 18: Critical Connections (Depth First Search, Graph)
+### Problem 18: Critical Connections (DFS, Tarjan, Graph)
 Given an underected connected graph with n nodes labeled 1..n. A bridge (cut edge) is defined as an edge which, when removed, makes the graph disconnected (or more precisely, increases the number of connected components in the graph). Equivalently, an edge is a bridge if and only if it is not contained in any cycle. The task is to find all bridges in the given graph. Output an empty list if there are no bridges.
 
 * Problem statement: [bridge.md](https://github.com/juliehub/python-practice/blob/master/bridge.md)
