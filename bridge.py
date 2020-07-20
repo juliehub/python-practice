@@ -69,10 +69,10 @@ class Solution:
 
         return bridges
 
-n = 7
-edges = [[0, 1], [0, 2], [1, 3], [2, 3], [2, 5], [5, 6], [3, 4]]
-s=Solution()
-print("Bridges:",s.criticalConnections(n,edges))
+#n = 7
+#edges = [[0, 1], [0, 2], [1, 3], [2, 3], [2, 5], [5, 6], [3, 4]]
+#s=Solution()
+#print("Bridges:",s.criticalConnections(n,edges))
 
 
 #numNodes = 5
@@ -85,3 +85,8 @@ print("Bridges:",s.criticalConnections(n,edges))
 #edges = [[1, 2], [1, 3], [2, 3], [2, 4], [2, 5], [4, 6], [5, 6]]
 #s=Solution()
 #print("Bridges:",s.criticalConnections(n,edges))
+
+n = 9
+edges = [[1, 2], [1, 3], [2, 3], [3, 4], [3, 6], [4, 5], [6, 7], [6, 9], [7, 8], [8, 9]]
+s=Solution()
+print("Bridges:",s.criticalConnections(n,edges))
