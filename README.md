@@ -128,7 +128,7 @@ Given an underected connected graph with n nodes labeled 1..n. A bridge (cut edg
 * Problem statement: [bridge.md](https://github.com/juliehub/python-practice/blob/master/bridge.md)
 * Sample solution: [bridge.py](https://github.com/juliehub/python-practice/blob/master/bridge.py)
 
-### Problem 10: Number of Islands
+### Problem 19: Number of Islands
 Given a 2d grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
 * Problem statement: [islands.md](https://github.com/juliehub/python-practice/blob/master/islands.md)
