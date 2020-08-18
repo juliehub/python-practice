@@ -71,41 +71,35 @@ Use it to write a function rand5() that generates a random integer from 1 to 5.
 * Sample solution: [rand5.py](https://github.com/juliehub/python-practice/blob/master/rand5.py)
 
 
-### Problem 10: Writing a uniform shuffle (NOT DONE YET)
-Write a function for doing an in-place shuffle of a list.
-Use it to write a function rand5() that generates a random integer from 1 to 5.
-* Problem statement: [shuffle.md](https://github.com/juliehub/python-practice/blob/master/shuffle.md)
-* Sample solution: [shuffle.py](https://github.com/juliehub/python-practice/blob/master/shuffle.py)
-
-### Problem 11: Swapping elements (Counting elements)
+### Problem 10: Swapping elements (Counting elements)
 Write a function to check whether there is a swap operation which can be performed on these
 arrays in such a way that the sum of elements in array A equals the sum of elements in
 array B after the swap.
 * Problem statement: [swap.md](https://github.com/juliehub/python-practice/blob/master/swap.md)
 * Sample solution: [swap.py](https://github.com/juliehub/python-practice/blob/master/swap.py)
 
-### Problem 12: Mushroom pickers (Prefix sums)
+### Problem 11: Mushroom pickers (Prefix sums)
 Write a function to calculate the maximum number of mushrooms that the mushroom picker can collect in m moves.
 * Problem statement: [mushroom.md](https://github.com/juliehub/python-practice/blob/master/mushroom.md)
 * Sample solution: [mushroom.py](https://github.com/juliehub/python-practice/blob/master/mushroom.py)
 
-### Problem 13: Max Slice Problem
+### Problem 12: Max Slice Problem
 Write a function to return the maximum sum of a slice in the array.
 * Problem statement: [max_slice.md](https://github.com/juliehub/python-practice/blob/master/max_slice.md)
 * Sample solution: [max_slice.py](https://github.com/juliehub/python-practice/blob/master/max_slice.py)
 
-### Problem 14: Top K Frequently Mentioned Keywords (Heap)
+### Problem 13: Top K Frequently Mentioned Keywords (Heap)
 Given a list of reviews, a list of keywords and an integer k. Find the most popular k keywords in order of most to least frequently mentioned.
 * Problem statement: [topKFrequent.md](https://github.com/juliehub/python-practice/blob/master/topKFrequent.md)
 * Sample solution: [topKFrequent.py](https://github.com/juliehub/python-practice/blob/master/topKFrequent.py)
 
-### Problem 15: Zombie in a matrix (Breadth First Search, Graph)
+### Problem 14: Zombie in a matrix (Breadth First Search, Graph)
 Given a 2D grid, each cell is either a zombie 1 or a human 0. Zombies can turn adjacent (up/down/left/right) human beings into zombies every hour.
 Find out how many hours does it take to infect all humans?
 * Problem statement: [zombie.md](https://github.com/juliehub/python-practice/blob/master/zombie.md)
 * Sample solution: [zombie.py](https://github.com/juliehub/python-practice/blob/master/zombie.py)
 
-### Problem 16: Product Suggestions (Trie and Sort)
+### Problem 15: Product Suggestions (Trie and Sort)
 Given an array of strings products and a string searchWord.
 We want to design a system that suggests at most three product names from products after each character of searchWord is typed.
 Suggested products should have common prefix with the searchWord.
@@ -114,7 +108,7 @@ If there are more than three products with a common prefix return the three lexi
 * Problem statement: [product.md](https://github.com/juliehub/python-practice/blob/master/product.md)
 * Sample solution: [product.py](https://github.com/juliehub/python-practice/blob/master/product.py)
 
-### Problem 17: Critical Routers/Articulation Point (DFS, Tarjan, Graph)
+### Problem 16: Critical Routers/Articulation Point (DFS, Tarjan, Graph)
 You are given an undirected connected graph. An articulation point (or cut vertex) is defined as a vertex which, when removed along with associated edges, makes the graph disconnected (or more precisely, increases the number of connected components in the graph). The task is to find all articulation points in the given graph.
 
 Return list of lists of the suggested products after each character of searchWord is typed. 
@@ -122,13 +116,13 @@ Return list of lists of the suggested products after each character of searchWor
 * Problem statement: [router.md](https://github.com/juliehub/python-practice/blob/master/router.md)
 * Sample solution: [router.py](https://github.com/juliehub/python-practice/blob/master/router.py)
 
-### Problem 18: Critical Connections (DFS, Tarjan, Graph)
+### Problem 17: Critical Connections (DFS, Tarjan, Graph)
 Given an underected connected graph with n nodes labeled 1..n. A bridge (cut edge) is defined as an edge which, when removed, makes the graph disconnected (or more precisely, increases the number of connected components in the graph). Equivalently, an edge is a bridge if and only if it is not contained in any cycle. The task is to find all bridges in the given graph. Output an empty list if there are no bridges.
 
 * Problem statement: [bridge.md](https://github.com/juliehub/python-practice/blob/master/bridge.md)
 * Sample solution: [bridge.py](https://github.com/juliehub/python-practice/blob/master/bridge.py)
 
-### Problem 19: Number of Islands
+### Problem 18: Number of Islands
 Given a 2d grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
 * Problem statement: [islands.md](https://github.com/juliehub/python-practice/blob/master/islands.md)
